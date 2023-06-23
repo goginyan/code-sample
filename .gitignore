@@ -1,0 +1,6 @@
+# Laravel
+/vendor
+.env
+/.idea
+
+
